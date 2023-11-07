@@ -1,0 +1,80 @@
+{
+  "id": "nl.lrvdlinden.mapmylocation",
+  "version": "2.0.4",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "brandColor": "#0F9D58",
+  "name": {
+    "en": "MapMyLocation",
+    "nl": "MapMyLocation"
+  },
+  "images": {
+    "xlarge": "/assets/images/xlarge.jpg",
+    "large": "/assets/images/large.jpg",
+    "small": "/assets/images/small.jpg"
+  },
+  "description": {
+    "en": "Turn an address or GPS coordinates into an image or navigate to it directly.",
+    "nl": "Verander een adres of GPS gegevens in een image of navigeer hier direct naar toe."
+  },
+  "category": "localization",
+  "class": "cloud",
+  "tags": {
+    "en": [
+      "internet",
+      "google",
+      "maps",
+      "location",
+      "apple",
+      "navigation"
+    ],
+    "nl": [
+      "internet",
+      "google",
+      "maps",
+      "locatie",
+      "apple",
+      "navigatie"
+    ]
+  },
+  "language": {
+    "en": "en",
+    "nl": "nl"
+  },
+  "permissions": [
+    "homey:manager:geolocation"
+  ],
+  "author": {
+    "name": "Léon van der Linden",
+    "email": "homey@vdlinden.xyz"
+  },
+  "contributors": {
+    "translators": [
+      {
+        "name": "🇬🇧 Léon"
+      },
+      {
+        "name": "🇳🇱 Léon"
+      }
+    ]
+  },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "lrvdlinden"
+      },
+      "bunq": {
+        "username": "lrvdlinden"
+      }
+    }
+  },
+  "bugs": {
+    "url": "https://community.homey.app/t/app-pro-mapmylocation/88645"
+  },
+  "homepage": "https://homey.app/nl-nl/apps/author/5d4da77a2c836a50f6936070/page/0/",
+  "support": "https://community.homey.app/t/app-pro-mapmylocation/88645",
+  "homeyCommunityTopicId": 88645
+}

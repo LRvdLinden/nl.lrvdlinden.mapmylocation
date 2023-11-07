@@ -1,0 +1,72 @@
+{
+  "id": "create_api_url_9",
+  "title": {
+    "en": "Show location by latitude,longitude",
+    "nl": "Laat locatie zien via latitude,longitude"
+},
+"titleFormatted": {
+  "en": "Location is [[lat_long]]",
+  "nl": "Locatie is [[lat_long]]"
+},
+  "args": [
+    {
+      "name": "lat_long",
+      "type": "text",
+      "title": {
+        "en": "Latitude,longitude",
+        "nl": "Breedtegraad,lengtegraad"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "name": "google_maps_url",
+      "type": "string",
+      "title": {
+        "en": "Location on Google Maps (URL)",
+        "nl": "Locatie op Google Maps (URL)"
+      }
+  },
+  {
+    "name": "google_maps_route",
+    "type": "string",
+    "title": {
+      "en": "(Car) Navigate with Google Maps (URL)",
+      "nl": "(Auto) Navigeer met Google Maps (URL)"
+    }
+  },
+  {
+    "name": "google_maps_route_bicycling",
+    "type": "string",
+    "title": {
+      "en": "(Bicycling) Navigate with Google Maps (URL)",
+      "nl": "(Fiets) Navigeer met Google Maps (URL)"
+    }
+  },
+  {
+    "name": "google_maps_route_transit",
+    "type": "string",
+    "title": {
+      "en": "[Transit] Navigate with Google Maps (URL)",
+      "nl": "[OV] Navigeer met Google Maps (URL)"
+    }
+  },
+  {
+    "name": "google_maps_route_walking",
+    "type": "string",
+    "title": {
+      "en": "[Walking] Navigate with Google Maps (URL)",
+      "nl": "[Lopen] Navigeer met Google Maps (URL)"
+    }
+  },
+  {
+    "name": "apple_maps",
+    "type": "string",
+    "title": {
+      "en": "Navigate with Apple Maps (URL)",
+      "nl": "Navigeer met Apple Kaarten (URL)"
+          }
+        }
+      ]
+  }
+  

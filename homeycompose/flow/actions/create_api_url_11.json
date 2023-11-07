@@ -1,0 +1,84 @@
+{
+  "id": "create_api_url_11",
+  "title": {
+    "en": "Show my Homey location with image",
+    "nl": "Laat mijn Homey locatie zien met afbeelding"
+  },
+  "titleFormatted": {
+    "en": "Show my Homey location and use for the image apikey: [[apikey]]",
+    "nl": "Laat de locatie van mijn Homey zien en gebruik voor de afbeelding apikey: [[apikey]]"
+  },
+  "hint":{
+    "en": "With this card, you can create an image. To do this, you need a Google Maps Static apiKey",
+    "nl": "Met deze kaart kan je een afbeelding creëren. Om dit te kunnen doen, heb je een Google Maps Static apiKey nodig"
+  },
+  "args": [
+    {
+      "name": "apikey",
+      "type": "text",
+      "title": {
+        "en": "Google Maps Static apiKey",
+        "nl": "Google Maps Static apiKey"
+      }
+    }
+  ],
+  "tokens": [
+    {
+      "name": "google_maps_url",
+      "type": "string",
+      "title": {
+        "en": "Location on Google Maps (URL)",
+        "nl": "Locatie op Google Maps (URL)"
+      }
+  },
+  {
+    "name": "google_maps_route",
+    "type": "string",
+    "title": {
+      "en": "(Car) Navigate with Google Maps (URL)",
+      "nl": "(Auto) Navigeer met Google Maps (URL)"
+    }
+  },
+  {
+    "name": "google_maps_route_bicycling",
+    "type": "string",
+    "title": {
+      "en": "(Bicycling) Navigate with Google Maps (URL)",
+      "nl": "(Fiets) Navigeer met Google Maps (URL)"
+    }
+  },
+  {
+    "name": "google_maps_route_transit",
+    "type": "string",
+    "title": {
+      "en": "[Transit] Navigate with Google Maps (URL)",
+      "nl": "[OV] Navigeer met Google Maps (URL)"
+    }
+  },
+  {
+    "name": "google_maps_route_walking",
+    "type": "string",
+    "title": {
+      "en": "[Walking] Navigate with Google Maps (URL)",
+      "nl": "[Lopen] Navigeer met Google Maps (URL)"
+    }
+  },
+  {
+    "name": "apple_maps",
+    "type": "string",
+    "title": {
+      "en": "Navigate with Apple Maps (URL)",
+      "nl": "Navigeer met Apple Kaarten (URL)"
+      }
+      },
+      {
+        "name": "image",
+        "type": "image",
+        "title": {
+          "en": "Location image",
+          "nl": "Locatie afbeelding"
+          }
+        }
+      ]
+  }
+  
