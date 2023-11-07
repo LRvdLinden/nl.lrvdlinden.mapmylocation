@@ -1,0 +1,66 @@
+{
+  "0.0.1": {
+    "en": "Initial Release",
+    "nl": "Initiële Release"
+  },
+  "1.0.0": {
+    "en": "Initial release"
+  },
+  "1.0.1": {
+    "en": "Added navigation links for Google Maps and Apple Maps"
+  },
+  "1.0.2": {
+    "en": "Added navigation links for Google Maps and Apple Maps"
+  },
+  "1.0.3": {
+    "en": "Added lat_long from Homey Pro location"
+  },
+  "1.0.4": {
+    "en": "First release"
+  },
+  "1.0.5": {
+    "en": "Various action cards combined, to reduce the total to the minimum."
+  },
+  "1.0.6": {
+    "en": "Various action cards combined,"
+  },
+  "1.0.7": {
+    "en": "New: added map types to custum image action cards and At the request of @martijnpoppen Various action cards combined, to reduce the total to the minimum."
+  },
+  "1.0.8": {
+    "en": "FIX: Spaces in street and city names"
+  },
+  "1.0.9": {
+    "en": "Minor bug fix"
+  },
+  "1.0.10": {
+    "en": "Fix: actions card with address"
+  },
+  "1.0.11": {
+    "en": "Fix: Action cards with address"
+  },
+  "1.1.0": {
+    "en": "add red marker to images"
+  },
+  "1.1.1": {
+    "en": "change app category from tools to localization"
+  },
+  "1.1.2": {
+    "en": "New image tag"
+  },
+  "2.0.0": {
+    "en": "BREAKING: No trigger cards any more. The tokens are in the action cards!"
+  },
+  "2.0.1": {
+    "en": "Fix: zoom level image"
+  },
+  "2.0.2": {
+    "en": "Fix: Map type and zoom"
+  },
+  "2.0.3": {
+    "en": "BREAKING: No trigger cards any"
+  },
+  "2.0.4": {
+    "en": "Fix location image"
+  }
+}
