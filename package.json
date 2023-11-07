@@ -1,0 +1,19 @@
+{
+  "name": "nl.lrvdlinden.mapmylocation",
+  "version": "1.0.0",
+  "description": "The best radio app for your Homey.",
+  "author": "homey@vdlinden.xyz",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lrvdlinden/nl.lrvdlinden.mapmylocation"
+  },
+  "main": "app.js",
+  "homey": ">=3.0.0",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js,.ts --ignore-path .gitignore ."
+  }
+}
