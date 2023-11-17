@@ -2,7 +2,7 @@ MapMyLocation for Homey
 
 This app allows Homey to send location data to your favourite messaging app.
 
-Currently has support for:
+Currently, has support for:
 - Realtime notifications
 - Tokens: Location Image URL, Location on Google Maps, Google Maps Route (driving, walking, transit and bicycling), Apple Maps Route.
 - Send your self route links (Google Maps or Apple Maps) to navigate directly to the location.
